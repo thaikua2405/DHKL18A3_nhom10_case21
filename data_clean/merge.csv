@@ -1,0 +1,6 @@
+﻿date,student_id,full_name,class_cohort,class_id,course_name,weekday,slot,status,note
+2024-01-03,Sv001,NguyenVanBinh,k17a1,HP10101,Lap Trinh Python,Monday,Tiết 1–3,Có mặt,0
+2024-01-03,Sv001,NguyenVanBinh,k17a1,HP10101,Lập Trình Py,Monday,1-3,Có mặt,0
+,Sv003,LeQuangHuy,k18a2,HP10101,Lap Trinh Python,Monday,Tiết 1–3,Vắng,Không lý do
+,Sv003,LeQuangHuy,k18a2,HP10101,Lập Trình Py,Monday,1-3,Vắng,Không lý do
+,Sv002,TranThiMinh,k17a1,HP20502,Xac Suat Thong Ke,Tuesday,Sáng,Đi muộn,Tắc đường
